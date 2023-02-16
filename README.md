@@ -1,5 +1,5 @@
-# Grigoriadis_Hachiyan
-Finding the PageRank vector by Grigoriadis Hachiyan algorithm and comparing it with GK and MCMC algorithms  
+# Grigoriadis_Khachiyan
+Finding the PageRank vector using two variations of the Grigoriadis-Khachiyan algorithm and comparing it with MCMC algorithm.
 
 Required:  
 ```g++.exe (GCC) 9.2.0```  
