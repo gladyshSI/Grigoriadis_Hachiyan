@@ -1,0 +1,42 @@
+[
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/main.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/main.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/main.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/gen_random_value.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/gen_random_value.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/gen_random_value.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/mcmc.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/mcmc.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/mcmc.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/get_norm.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/get_norm.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/get_norm.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/generate_graph.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/generate_graph.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/generate_graph.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/gk2_algorithm.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/gk2_algorithm.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/gk2_algorithm.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/gk1_algorithm.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/gk1_algorithm.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/gk1_algorithm.cpp"
+},
+{
+  "directory": "D:/GitHub_phystech/Grigoriadis_Hachiyan/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -std=gnu++17 -o CMakeFiles/Algorithm.dir/map_heap.cpp.obj -c D:/GitHub_phystech/Grigoriadis_Hachiyan/map_heap.cpp",
+  "file": "D:/GitHub_phystech/Grigoriadis_Hachiyan/map_heap.cpp"
+}
+]
