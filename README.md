@@ -1,4 +1,4 @@
-# Grigoriadis_Khachiyan
+# Grigoriadis Khachiyan
 Finding the PageRank vector using two variations of the Grigoriadis-Khachiyan algorithm and comparing it with MCMC algorithm.
 
 Required:  
